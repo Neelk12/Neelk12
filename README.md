@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Neelraj, a data enthusiast! 👋
 
 <!--
 **Neelk12/Neelk12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 😊 I'm a fan of Excel, SQL, Tableau, and Python.
+- 🌱 I'm passionate about data analytics and machine learning.
+- 📫 You can reach me at neelkhawale@gmail.com.
+- ⚡ Immersed in my love for football, I wholeheartedly engage in the sport, relishing every opportunity to play while proudly supporting Manchester United :soccer:.
